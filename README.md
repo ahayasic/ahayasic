@@ -11,7 +11,6 @@
 <p align='center'>
   Passionate about technology, computing, algorithms, data science and, above all, artificial intelligence. I live the philosophy of always trying to learn something new, whether through mistakes or successes, good or bad experiences, so that I can develop my maximum potential and find the best version of me.
 </p>
-<br />
 
 <h2 align='center'>
     :books: Favorite Tools and Technologies
@@ -37,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="28" height="28"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="28" height="28"/>
 </p>
-<br />
+
 <h2 align='center'>
     :computer: GitHub Stats
 </h2>
