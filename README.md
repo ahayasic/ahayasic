@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  I'm a Computer Science Undergraduate Student at <a href="https://site.dc.ufscar.br/">Federal University of São Carlos (UFSCar)</a> and Machine Learning Engineer at <a href="https://www.daitan.com/">Daitan</a>.
+  I'm a Computer Science Undergraduate Student at <a href="https://site.dc.ufscar.br/">Federal University of São Carlos (UFSCar)</a> and Data Engineer at <a href="https://www.ifood.com.br/">iFood</a>.
 </p>
 
 <p align='center'>
