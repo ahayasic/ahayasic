@@ -1,5 +1,7 @@
 ![](https://github.com/ahayasic/ahayasic/blob/main/assets/header.png)
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <h1 align='center'>
   Hello, World! :earth_americas: :blush:
 </h1>
@@ -9,7 +11,7 @@
 </p>
 
 <p align='center'>
-  Passionate about technology, computing, algorithms, data science and, above all, artificial intelligence. I live the philosophy of always trying to learn something new, whether through mistakes or successes, good or bad experiences, so that I can develop my maximum potential and find the best version of me.
+  Passionate about technology, computing, algorithms, data science, and artificial intelligence. I live the philosophy of always trying to learn something new through mistakes or successes, good or bad experiences so that I can develop my maximum potential and find the best version of me.
 </p>
 
 <h2 align='center'>
@@ -17,24 +19,27 @@
 </h2>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/airflow.svg" alt="airflow" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/matplotlib.svg" alt="matplotlib" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/numpy.png" alt="numpy" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/pandas.png" alt="pandas" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/sklearn.svg" alt="sklearn" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/ahayasic/ahayasic/main/assets/spark.svg" alt="spark" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="28" height="28"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="38" height="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="38" height="38"/>
 </p>
 
 <h2 align='center'>
@@ -43,5 +48,4 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahayasic/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="" height="30" width="40" /></a>
-    <a href="https://ahayasic.github.io/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" alt="" height="30" width="40" /></a>
 </p>
